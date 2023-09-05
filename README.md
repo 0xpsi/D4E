@@ -1,5 +1,5 @@
 D4E - 4-dim manifold viewer
-![Clifford Torus](./cliftor.png)
+![Clifford Torus](./resources/cliftor.png)
 
 This program uses a simple method for viewing 4 dimensional objects. Objects are defined via a function which returns true or false - true if a given 4d point lies within the bounds of the object, and false otherwise. Random points are generated and filtered through the function to return a set of points defining the object, up to a set number.
 
