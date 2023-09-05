@@ -1,0 +1,6 @@
+#ifndef _seticon_rc
+#define _seticon_rc
+
+MAINICON ICON "/resources/cliftor.ico"
+
+#endif

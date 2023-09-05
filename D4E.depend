@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1391472434 source:c:\users\jonny\desktop\dropbox\d4e\prim.cpp
+	<string>
+	<sstream>
+	<vector>
+	<cmath>
+	<random>
+	<vect.h>
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<glut.h>
+	<il.h>
+	<ilu.h>
+	<ft2build.h>
+	<Timer.h>
+	<SDL_customi.h>
+	<TTF_custom.h>
+	<SDL_GL_custom.h>
+	<vect4.h>
+	"Camera4.h"
+	"Shapes.h"
+	"Point.h"
+	"Object.h"
+	"Texture.h"
+	"Font.h"
+
+1391385831 c:\users\jonny\desktop\dropbox\d4e\texture.h
+
+1371802422 c:\users\jonny\desktop\dropbox\d4e\font.h
+
+1372569890 c:\users\jonny\desktop\dropbox\d4e\point.h
+
+1372546632 c:\users\jonny\desktop\dropbox\d4e\object.h
+
+1391405175 c:\users\jonny\desktop\dropbox\d4e\camera4.h
+
+1391472428 c:\users\jonny\desktop\dropbox\d4e\shapes.h
+
+1372540442 source:c:\users\jonny\desktop\dropbox\d4e\seticon.rc
+
+1391478322 source:f:\programming\cpp\d4e\prim.cpp
+	<string>
+	<sstream>
+	<vector>
+	<cmath>
+	<random>
+	<vect.h>
+	<SDL.h>
+	<SDL_opengl.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<glut.h>
+	<il.h>
+	<ilu.h>
+	<ft2build.h>
+	<Timer.h>
+	<SDL_customi.h>
+	<TTF_custom.h>
+	<SDL_GL_custom.h>
+	<vect4.h>
+	"Camera4.h"
+	"Shapes.h"
+	"Point.h"
+	"Object.h"
+	"Texture.h"
+	"Font.h"
+
+1391408775 f:\programming\cpp\d4e\camera4.h
+
+1391478251 f:\programming\cpp\d4e\shapes.h
+
+1372573490 f:\programming\cpp\d4e\point.h
+
+1372550232 f:\programming\cpp\d4e\object.h
+
+1391389431 f:\programming\cpp\d4e\texture.h
+
+1371806022 f:\programming\cpp\d4e\font.h
+
+1372544042 source:f:\programming\cpp\d4e\seticon.rc
+

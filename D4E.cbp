@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="D4E" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/D4E" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add option="-std=c++0x" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add option="-lmingw32 -lSDLmain -lSDL.dll -lSDL_ttf -lSDL_image -lSDL_gfx_VS2008.dll -lOpenGL32 -lglu32 -lfreeglut" />
+					<Add option="-lDevIL -lILU" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="Camera4.h" />
+		<Unit filename="Font.h" />
+		<Unit filename="Object.h" />
+		<Unit filename="Point.h" />
+		<Unit filename="Texture.h" />
+		<Unit filename="prim.cpp" />
+		<Unit filename="seticon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="shapes.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
